@@ -179,7 +179,7 @@ int main() {
     addEnd(&head, 15);
     addFront(head, 5);
     addEnd(&head, 25);
-    addAfter(head->next, 15);
+    addAfter(head->next, 20);
 
  
 
